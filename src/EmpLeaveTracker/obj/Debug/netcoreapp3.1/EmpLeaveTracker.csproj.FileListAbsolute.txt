@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.exe
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.deps.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.runtimeconfig.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.dll
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\bin\Debug\netcoreapp3.1\EmpLeaveTracker.pdb
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.dll
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.pdb
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\empleavetracker\src\EmpLeaveTracker\obj\Debug\netcoreapp3.1\EmpLeaveTracker.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+Id,Creator,Manager,Title,Description,Start-Date,End-Date,Status,EmployeeId, ManagerId
+1,Hazel Nutt,Niket,5 days leave,vacation leave,24-09-2020,30-09-2020,Approved,102,100
+2,Chris P. Bacon,Kg,2days leave,medical leave,20-02-2020,24-02-2020,Pending,103,101
+3,Chris P. Bacon,Kg,4 days leave,Vacation leave,02-04-2020,04-04-2020,Pending,103,101
+4,Aida Bugg,rash,7 days leave,vacation leave,01-01-2020,08-01-2020,Approved,107,103
+5,Aida Bugg,rash,5 days leave,vacation leave,01-05-2020,07-05-2020,Approved,107,103
